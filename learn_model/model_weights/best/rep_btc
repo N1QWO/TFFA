@@ -1,0 +1,20 @@
+accuracy на тестовом наборе Adamax: 0.5320
+precision на тестовом наборе Adamax: 0.5272
+recall на тестовом наборе Adamax: 0.6204
+'in_features': shape[1], 'h': [64,128,256,128,256,64,128,32,128,32,64] , 'out': 2
+2000 эпох обучения
+
+
+
+
+accuracy на тестовом наборе Adagrad: 0.5343
+precision на тестовом наборе Adagrad: 0.5315
+recall на тестовом наборе Adagrad: 0.5783
+max_accuracy на тестовом наборе Adagrad: 0.5343 ; на 8788 примерах
+10000 эпох обучения
+
+
+accuracy на тестовом наборе Adamax: 0.5407
+precision на тестовом наборе Adamax: 0.5486
+recall на тестовом наборе Adamax: 0.4599
+1000

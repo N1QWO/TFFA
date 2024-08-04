@@ -1,0 +1,8 @@
+AdamW
+accuracy: 0.50195682
+precision: 0.50284630
+recall: 0.33459596
+in_features: 360 h: 29 64 256 8 400 64 128 32 128 32 64 out: 2
+epoch : 1000
+negative_slope : 0.2
+dropout : 0.8

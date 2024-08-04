@@ -1,0 +1,1 @@
+open high low close volume turnover average_price SMA_3 SMA_7 SMA_28 std_dev_7 Upper_Band Lower_Band RSI_7 RSI_14 EMA_5 EMA_20 MACD Signal_line high_low high_prev_close low_prev_close TR SMA_TR VWAP part_h_max part_m_max part_y_max part_all_max Head_and_Shoulders Flag Bullish_Flag Ascending_Triangle Falling_Wedge Hammer HangingMan

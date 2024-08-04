@@ -1,0 +1,8 @@
+Adamax
+accuracy: 0.64227642
+precision: 0.69230769
+recall: 0.51219512
+in_features: 360 h: 32 64 32 64 128 64 128 32 128 32 64 out: 2
+epoch : 3000
+negative_slope : 0.1
+dropout : 0.8
