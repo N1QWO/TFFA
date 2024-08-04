@@ -1,6 +1,6 @@
 TFFA 
 
-author: NIKITAKOBYZEV(NIKO)
+author: (NIKO) that is, I)
 
 Helloo,  I tried to make my first project rich, 
 it will be supplemented with new ideas,
